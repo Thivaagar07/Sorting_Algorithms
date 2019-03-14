@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1518244322 source:c:\users\pravin.k\documents\c++ programs\merge_sort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<chrono>
+
+1518244495 source:c:\users\pravin.k\documents\mmu\degree\year2sem2\algorithm design and analysis\assignment\merge_sort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<chrono>
+
+1518244495 source:c:\users\pravin.k\documents\mmu\degree\year2sem2\algorithm design and analysis\assignment\algo_assigment\merge_sort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<chrono>
+
